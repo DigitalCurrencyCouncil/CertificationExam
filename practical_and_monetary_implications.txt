@@ -1,12 +1,6 @@
-What are some drawbacks of transactions with very large numbers of inputs?
--- (a) The amount of bitcoin transacted may exceed the coinbase reward
--- (b) The transaction may require a higher transaction fee to get confirmed quickly
--- (c) The transaction will take slightly longer to relay and process
--- (d) Bitcoin doesn't support transactions with more than 32 inputs
--- a and b
---* b and c
--- a, b, and c
--- a, b, c, and d
+If a transaction does not fully spend all inputs, the miner who includes the transaction in a block is allowed to assign the unassigned input value.
+--* True
+-- False
 
 
 What has Gavin Andresen proposed as an appropriate solution to the blocksize debate?
@@ -69,3 +63,44 @@ What is generally being referred to when discussing a miner's 'memory pool'?
 A hard-fork is considered backward-compatible with older bitcoin software.
 -- True
 --* False
+
+
+What are some arguments against raising the max-blocksize limit?
+-- (a) Raising the limit will make it easier for small-operators to run full-nodes
+--* (b) Raising the limit will make it harder for small-operators to run full-nodes
+-- (c) Raising the limit will make it harder for large-operators to run full-nodes
+-- (d) Raising the limit may break SHA-256 hashing assumptions
+-- a and b
+-- b and c
+-- a, b, and c
+-- a, b, c, and d
+
+
+What are some arguments in favor of raising the max-blocksize limit?
+-- (a) Raising the limit will allow Bitcoin to scale-up transaction volume
+-- (b) Raising the limit will likely reduce transaction fees in the long-run
+-- (c) Raising the limit will make transactions confirm faster
+-- (d) Raising the limit may break SHA-256 hashing assumptions
+--* a and b
+-- b and c
+-- a, b, and c
+-- a, b, c, and d
+
+
+Why were graphics cards suited to Bitcoin's mining algorithm?
+-- Because they have a lot of built-in memory
+-- Because they're better than most CPUs at general serial computation
+--* Because they're very good at parallel computation
+-- Graphics cards were not used for bitcoin mining
+
+
+Which mining-hardware technology generally uses the least energy per hash-computation?
+-- GPUs
+-- FPGAs
+--* ASICs
+-- CPUs
+
+
+Can transaction malleability change the address(es) to which the bitcoin contained in a given transaction goes?
+-- Yes
+--* No
