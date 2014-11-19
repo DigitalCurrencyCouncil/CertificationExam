@@ -83,3 +83,44 @@ What does 'XBT' refer to?
 -- A new protocol for pegging one blockchain-unit to another
 --* The proposed international currency symbol for bitcoin
 -- A type of multi-signature transaction
+
+
+When did the US dollar price of bitcoin first break $100?
+-- 2010
+-- 2011
+-- 2012
+--* 2013
+
+
+So called 'circuit breakers' are in place across many bitcoin exchanges to prevent sharp swings in the price of bitcoin.
+-- True
+--* False
+
+
+What prominent venture-capital investor wrote an editorial titled "Why Bitcoin Matters" published in the New York Times in January 2014?
+-- Fred Wilson
+-- Tim Draper
+--* Marc Andreessen
+-- Jim Breyer
+
+
+Which companies had received over $10 million in venture-capital investment as of October 2014?
+-- (a) Blockchain.info
+-- (b) Coinbase.com
+-- (c) Circle.com
+-- (d) Xapo.com
+-- (e) Bitpay.com
+-- a and e
+-- b and e
+-- a, b, and d
+--* a, b, c, d, and e
+
+
+Which organizations can be considered 'Bitcoin Lobbyist' groups?
+-- (a) The Bitcoin Foundation
+-- (b) The Chamber of Digital Commerce
+-- (c) Coin Center
+-- a and b
+-- a and c
+-- b and c
+--* a, b, and c
