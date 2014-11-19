@@ -1,0 +1,85 @@
+Which of the following alt-coins is the oldest?
+-- Litecoin
+-- Ripple XRP
+-- Peercoin
+--* Namecoin
+
+
+Which well-known venture capital firms have publicly invested in one or more Bitcoin companies?
+-- (a) Andreessen Horowitz
+-- (b) Google Ventures
+-- (c) Lightspeed Venture Partners
+-- (d) Accel Partners
+-- (e) Kleiner Perkins Caufield & Byers
+-- a and b
+-- a, b, and c
+--* a, b, c, and d
+-- a, b, c, d, and e 
+
+
+Which mining pool(s) nearly attained 51% network hashrate in 2014?
+-- (a) Slush
+-- (b) BTC Guild
+--* (c) GHash.io
+-- (d) Eligius
+-- (e) Discus Fish
+-- a and b
+-- b and c
+-- b and e
+
+
+Which public figure(s) have voiced strong opposition to bitcoin?
+-- (a) Marc Andreessen
+-- (b) Paul Krugman
+-- (c) Senator Tom Carper
+-- (d) Senator Joe Manchin
+-- (e) NYDFS Superintendent Benjamin Lawsky
+-- b and e
+-- c and e
+--* b and d
+
+
+Which entities have submitted proposals for NASDAQ and/or NYSE tradeable bitcoin-securities products to the SEC?
+-- (a) Andreessen Horowitz
+-- (b) SecondMarket / Digital Currency Group
+-- (c) Winklevoss Bitcoin Trust
+-- (d) Coinbase
+-- a and b
+--* b and c
+-- c and d
+
+
+Which group controls the Bitcoin-core reference client source code?
+-- (a) The Bitcoin Foundation
+-- (b) Gavin Andresen and Hal Finney
+-- (c) The Electronic Frontier Foundation
+--* (d) The developers with write-access to the 'bitcoin' GitHub repository
+
+
+Which organization controls the production of bitcoin?
+-- GHash.io
+-- The Bitcoin Foundation
+-- GitHub
+-- Blockchain.info
+-- The Federal Reserve
+--* None of the above
+
+
+Mining pools are:
+-- Required for mining
+--* A variance-reduction service
+-- Soon to be antiquated
+-- A service developed in bitcoin's very early history
+-- Companies like: GHash.io, Coinbase.com, and KnCMiner
+
+
+Bitcoin is the only decentralized digital currency.
+-- true
+--* false
+
+
+What does 'XBT' refer to?
+-- eXtra Bit Transactions
+-- A new protocol for pegging one blockchain-unit to another
+--* The proposed international currency symbol for bitcoin
+-- A type of multi-signature transaction
