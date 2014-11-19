@@ -17,7 +17,7 @@ Our Certification Course and Exam are intended for a professional audience (eg; 
 
 # Certification Exam Questions
 
-This repo contains a sampling of our potential Certification Exam questions. We are putting these out for community review in order to improve both the quality and relevance of the questions. Our total pool of questions draws from each of our core-competancy areas in equal proportion. 
+Our Certification Exam will consist of roughly 100 questions drawn from a pool of over 500 questions. This repo contains a sampling of our potential Exam questions. We are putting these out for community review in order to improve both the quality and relevance of the questions. Our total pool of questions draws from each of our core-competancy areas in equal proportion. 
 
 To suggest a revision/correction to our questions, or submit your own, please fork this repository, make changes in your forked copy, and submit a pull request.
 
