@@ -68,3 +68,18 @@ Which country has announced plans to create its own government-managed virtual c
 -- Belgium
 --* Ecuador
 -- Argentina
+
+
+What has been a consistent determination by multiple judges in the US in varied Bitcoin-related court cases?
+-- Bitcoin is not money
+-- Bitcoin is a commodity
+-- Bitcoin use is completely anonymous
+--* It cannot be argued that bitcoin isn't money
+-- It cannot be argued that bitcoin isn't a commodity
+
+
+What was most noteworthy to most observers about the Trendon Shavers case?
+-- The specific means by which the Ponzi scheme was carried out
+--* The fact that the judge ruled that "bitcoin is a form of money"
+-- The decision by the SEC to prosecute the case
+-- The jurisdiction in which the case was being prosecuted
