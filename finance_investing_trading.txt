@@ -78,3 +78,32 @@ What are some risks to the possibility of future price appreciation of bitcoin?
 -- b and c
 -- a, b, and c
 --* a, b, c, and d
+
+
+There are currently roughly 21,000,000 bitcoins in circulation.
+-- True
+--* False
+
+
+More than half of the total number of bitcoins that will ever exist are currently in circulation.
+--* True
+-- False
+-- There is no way to know with precision
+
+
+The supply of bitcoin roughly corresponds to:
+-- The M0 money supply
+-- The M1 money supply
+-- The M2 money supply
+--* There is no general agreement amoung analysts
+
+
+The supply of bitcoin is currently:
+--* Inflating
+-- Deflating
+-- Stagnant
+
+
+Are bitcoin balances held in accounts with US companies protected by SIPC insurance?
+-- Yes
+--* No
