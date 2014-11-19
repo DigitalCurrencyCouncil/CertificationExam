@@ -83,3 +83,29 @@ What was most noteworthy to most observers about the Trendon Shavers case?
 --* The fact that the judge ruled that "bitcoin is a form of money"
 -- The decision by the SEC to prosecute the case
 -- The jurisdiction in which the case was being prosecuted
+
+
+Businesses classified as Money Services Businesses under the United States Bank Secrecy Act must:
+-- (a) Report all transactions of $10,000 or more
+-- (b) Maintain an AML program
+-- (c) Monitor customer transactions for certain patterns of illicit activity
+-- (d) File Suspicious Activity Reports if certain transaction patterns are identified
+-- a, b, and c
+-- a, c, and d
+--* a, b, c, and d
+
+
+Customers doing business with a business regulated under the US BSA will usually be asked to:
+-- (a) State their real-world identity to the business
+-- (b) Provide some measure of proof of their stated identity
+-- (c) Register certain computers and/or IP addresses with the business
+--* a and b
+-- a and c
+-- b and c
+-- a, b, and c
+
+
+Is it legal to donate bitcoin to political committees in the United States?
+--* Yes
+-- No
+-- No ruling has been issued by the Federal Election Commission, but it is assumed to be legal
