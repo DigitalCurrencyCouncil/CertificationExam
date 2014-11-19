@@ -56,7 +56,7 @@ Can you always trace a bitcoin balance back to the transaction where the coins w
 -- No
 
 
-What may alt-coins with faster confirmation times suffer from?
+What might an alt-coin suffer from due to faster confirmation times versus Bitcoin?
 --* Higher orphan rates and more risk of blockchain forks
 -- Value arbitrage
 -- Transaction malleability
