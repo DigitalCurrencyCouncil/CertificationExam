@@ -7,7 +7,7 @@ The Digital Currency Council seeks to support the development of best in class p
 Our Certification Course and Exam are intended for a professional audience (eg; laywers, accountants, financial professionals) seeking to build a robust working-knowledge and practical skillset in the digital currency ecosystem. Our course and exam are tailored to that end, and emphasize the following* six key domains within the digital currency ecosystem:
 
 1) Origins and Technical Underpinnings  
-2) Practical and Monetary Implications  
+2) Properties and Monetary Implications  
 3) Digital Currency Usage  
 4) The Digital Currency Ecosystem  
 5) Finance, Investing, and Trading  
