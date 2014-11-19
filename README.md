@@ -8,7 +8,7 @@ Our Certification Course and Exam builds competency in the following* six key do
 
 1) Origins and Technical Underpinnings  
 2) Practical and Monetary Implications  
-3) Mastering Digital Currency Usage  
+3) Digital Currency Usage  
 4) The Digital Currency Ecosystem  
 5) Finance, Investing, and Trading  
 6) Regulatory, Legal, and Accounting  
