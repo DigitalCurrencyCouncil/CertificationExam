@@ -99,11 +99,15 @@ Transaction fees in Bitcoin do not depend on the monetary size of the transactio
 -- False
 
 
-PayPal lets users transfer money directly without the need for a 3rd party to manage the transaction.
--- True
---* False
+Who is Nick Szabo?
+-- A co-author on Satoshi Nakamoto's Bitcoin whitepaper
+-- The inventor of HashCash, an email anti-spam tool often credited as being the precursor to Bitcoin's hash-based proof-of-work algorithm
+-- The founder of DigiCash, which produced the eCash cryptographic money system
+--* The creator of BitGold, a precursor to Bitcoin with many similar properties
 
 
-Bank ACH transfers allow users to transfer money directly without the need for a 3rd party to manage the transaction.
--- True
---* False
+Who is Adam Back?
+-- A co-author on Satoshi Nakamoto's Bitcoin whitepaper
+--* The inventor of HashCash, an email anti-spam tool often credited as being the precursor to Bitcoin's hash-based proof-of-work algorithm
+-- The founder of DigiCash, which produced the eCash cryptographic money system
+-- The creator of BitGold, a precursor to Bitcoin with many similar properties
