@@ -1,0 +1,71 @@
+What are some drawbacks of transactions with very large numbers of inputs?
+-- (a) The amount of bitcoin transacted may exceed the coinbase reward
+-- (b) The transaction may require a higher transaction fee to get confirmed quickly
+-- (c) The transaction will take slightly longer to relay and process
+-- (d) Bitcoin doesn't support transactions with more than 32 inputs
+-- a and b
+--* b and c
+-- a, b, and c
+-- a, b, c, and d
+
+
+What has Gavin Andresen proposed as an appropriate solution to the blocksize debate?
+--* Raising it roughly in lockstep with expected general internet bandwidth gains
+-- Eventually removing the max-blocksize cap completely
+-- Doubling it at every reward halving
+-- Doing a one time ten-fold raise
+
+
+Which of these properties does Bitcoin have?
+--* (a) Very small or no transaction costs
+-- (b) Reversible payments 
+-- (c) Complete anonymity
+-- (d) Long-term inflationary monetary model
+-- c and d
+-- none of the above
+
+
+Bitcoin is the first monetary system to credibly offer perfect information to all economic participants.
+--* True
+-- False
+
+
+How is Bitcoin different than E-gold?
+-- E-gold was used to send money internationally
+-- Bitcoin use is often pseudonymous
+--* Bitcoin is an open protocol with no single entity responsible for the entire system
+-- There is no fundamental difference
+
+
+Which is a historically accepted property of a 'good' money?
+-- Scarcity
+-- Durability
+-- Fungibility
+-- Recognizability
+-- Portability
+-- Divisibility
+--* All of the above
+
+
+A soft-fork is considered backward-compatible with older bitcoin software.
+--* True
+-- False
+
+
+What causes a hard-fork?
+--* New Bitcoin software which expands block-acceptance rules relative to earlier versions.
+-- When a single transaction contains multiple outputs
+-- New Bitcoin software which restricts block-acceptance rules relative to earlier versions.
+-- When a single transaction contains multiple inputs
+
+
+What is generally being referred to when discussing a miner's 'memory pool'?
+-- The list of that node's peer nodes
+-- The list of a miner's spent nonces for the current block
+-- The list of recently confirmed transactions by that miner
+--* The list of unconfirmed transactions of which the miner is aware
+
+
+A hard-fork is considered backward-compatible with older bitcoin software.
+-- True
+--* False
