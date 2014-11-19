@@ -73,3 +73,37 @@ A bitcoin transaction can have _________ input(s) and _________ output(s)
 -- Up to 32 / Many
 -- Exactly one / Exactly one
 --* Many / Many
+
+
+What are some drawbacks of transactions with very large numbers of inputs?
+-- (a) The amount of bitcoin transacted may exceed the coinbase reward
+-- (b) The transaction may require a higher transaction fee to get confirmed quickly
+-- (c) The transaction will take slightly longer to relay and process
+-- (d) Bitcoin doesn't support transactions with more than 32 inputs
+-- a and b
+--* b and c
+-- a, b, and c
+-- a, b, c, and d
+
+
+How many confirmations are required before a Bitcoin coinbase reward can be spent?
+-- 0
+-- 1
+-- 6
+-- 32
+--* 100
+
+
+Transaction fees in Bitcoin do not depend on the monetary size of the transaction
+--* True
+-- False
+
+
+PayPal lets users transfer money directly without the need for a 3rd party to manage the transaction.
+-- True
+--* False
+
+
+Bank ACH transfers allow users to transfer money directly without the need for a 3rd party to manage the transaction.
+-- True
+--* False
