@@ -1,0 +1,75 @@
+When did Bitcoin first begin operating?
+-- January 1st 2010
+--* January 3rd 2009
+-- January 9th 2011
+-- None of the above
+
+
+Which of the following are correct statements about Bitcoin?
+-- (a) The company behind Bitcoin is a 501(c)(3) non-profit
+-- (b) Bitcoin is a peer-to-peer electronic cash system
+-- (c) Bitcoin is a decentralized digital currency
+-- (d) Bitcoin is maintained by a consortium of companies
+-- a and c
+--* b and c
+-- a, b, c, and d
+
+
+Which of these properties does Bitcoin have?
+--* (a) Very small or no transaction costs
+-- (b) Reversible payments 
+-- (c) Complete anonymity
+-- (d) Long-term inflationary monetary model
+-- c and d
+-- none of the above
+
+
+What is the Byzantine Generals' Problem?
+-- A complex math problem used in bitcoin mining
+-- A way to protect a server against an attack
+--* A long-standing distributed consensus problem in computer science
+-- An n-log-n merge-sort-based sorting-algorithm
+
+
+What was described in Satoshi Nakamoto's whitepaper?
+--* (a) A way to implement trustless digital cash
+-- (b) A broad economic analysis of deflationary digital currencies
+-- (c) A new type of digital signature
+-- (d) A new type of hashing algorithm
+-- a and c
+-- c and d
+-- a, b, c, and d
+
+
+Before Bitcoin, what technologies offered sending money online without a 3rd party?
+-- PayPal
+-- Western Union
+-- Royal Bank of Scotland
+-- Beenz
+--* None of the above
+
+
+Transaction fees are charged:
+--* by the kilobyte
+-- by CPU cycles
+-- at a fixed rate, network-wide
+-- as a percentage of the bitcoin contained in the transaction
+
+
+What is a block's coinbase transaction?
+-- The biggest transaction in a block
+-- The smallest transaction in a block
+--* The transaction which generates new coins
+-- The transaction with the most inputs
+
+
+The total supply of bitcoins asymptotically approaches 21,000,000
+--* True
+-- False
+
+
+A bitcoin transaction can have _________ input(s) and _________ output(s)
+-- Exactly one / Many
+-- Up to 32 / Many
+-- Exactly one / Exactly one
+--* Many / Many
