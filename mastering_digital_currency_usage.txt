@@ -1,0 +1,71 @@
+What type of wallet, when used correctly, offers the least counterparty risk?
+-- A web-wallet
+-- A web-wallet 'Vault' product
+--* A paper wallet
+-- An 'HD' wallet
+-- An insured web-wallet
+
+
+What is the primary reason to put funds into 'cold storage'?
+-- To make it more difficult to casually spend one's savings
+-- To make it harder to accidentally delete your funds
+-- To generate new offline addresses
+--* To make funds inaccessible to online hackers
+
+
+What does it mean when a transaction is 'unconfirmed'?
+-- The network has not yet received the transaction
+-- You do not have the required funds
+--* The transaction has not yet been included in a valid block
+-- You have not authorized the transaction
+
+
+A 'satoshi' is:
+-- 1.0 BTC
+-- 0.001 BTC
+-- 0.000001 BTC
+--* 0.00000001 BTC
+
+
+A 'bit' is:
+-- 1.0 BTC
+-- 0.001 BTC
+--* 0.000001 BTC
+-- 0.00000001 BTC
+
+
+Given that the target bitcoin block interval is 10-minutes, why can confirmations sometimes take an hour or more?
+-- (a) An insufficient transaction fee was paid
+-- (b) Confirmation times are statistical; they can vary significantly
+-- (c) The transaction was reversed
+--* a and b
+-- a and c
+-- b and c
+-- a, b, and c
+
+
+How can you make sure that your transaction is likely to be included in the next block?
+-- Send the transaction twice
+--* Include at least a standard transaction fee
+-- Send the transaction to multiple mining nodes
+-- Split the transaction into two smaller transactions
+
+
+Can you always trace a bitcoin balance back to the transaction where the coins were created?
+--* Yes
+-- No
+
+
+What may alt-coins with faster confirmation times suffer from?
+--* Higher orphan rates and more risk of blockchain forks
+-- Value arbitrage
+-- Transaction malleability
+-- Nothing; there are no disadvantages to faster confirmation times
+
+
+What metric(s) might you check to directly monitor Bitcoin usage?
+-- Hashrate
+-- Difficulty
+-- Coinbase reward
+--* Number of transactions per day
+-- Average confirmation time
