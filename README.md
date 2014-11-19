@@ -20,3 +20,10 @@ Our Certification Course and Exam builds competency in the following* six key do
 This repo contains a sampling of our potential Certification Exam questions. We are putting these out for community review in order to improve both the quality and relevance of the questions. Our total pool of questions draws from each of our core-competancy areas in equal proportion. 
 
 To suggest a revision/correction to our questions, or submit your own, please fork this repository, make changes in your forked copy, and submit a pull request.
+
+# Question Format
+
+Questions are formatted in a way that's both human-readable and easy for us to programmatically parse into our e-learning suite. Formatting rules are as follows:  
+-- Separate questions with two newlines  
+-- Each possible incorrect answer should be preceded by "-- "  
+-- Each correct answer should be preceded by "--* "  
