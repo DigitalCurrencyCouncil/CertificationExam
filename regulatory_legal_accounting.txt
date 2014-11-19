@@ -1,0 +1,70 @@
+According to the March 2014 IRS Guidance on Virtual Currencies, if you receive bitcoin as payment for goods or services, you must:
+-- Declare any capital gain to the IRS when you sell it
+--* Include the dollar-value of the bitcoin on the day you received it as gross-income
+-- Declare any mark-to-market gains as of April 15th
+-- Pay self-employment tax on the income, up to your standard deduction
+
+
+FinCEN is primarily tasked with:
+-- Aiding FBI investigations that involve financial services
+-- Managing ACH transfers between member banks
+--* Preventing illicit use of the US financial system
+-- Studying future uses of the finanical system
+
+
+The March 2014 IRS Guidance made clear that the IRS considers bitcoin:
+--* Property for the purposes of taxation
+-- Foreign currency for the purposes of taxation
+-- Foregin currency for the purposes of taxation if received as an employee
+-- Like-kind exchange
+
+
+What discussion is included in the March 2013 FinCEN Guidance on Virtual Currencies?
+-- (a) Application of MSB definitions to virtual currency companies
+-- (b) Suggested tax treatment of bitcoin-wages
+-- (c) Application of MSB definitions to virtual currency miners
+-- (d) Distinctions between centralized and decentralized virtual currencies
+-- a and b
+--* a, c, and d
+-- a, b, c, and d
+
+
+Which US regulatory body has issued a warning regarding bitcoin?
+--* The Consumer Financial Protection Bureau
+-- The Bureau of Engraving and Printing
+-- The Department of Commerce
+-- The Social Security Advisory Board
+
+
+In FinCEN's March 2013 guidance, FinCEN described virtual currencies like bitcoin as:
+-- "a security"
+-- "property"
+--  a commodity or other "type of convertible store of value"
+--* a currency "substitute"
+
+
+An ordinary bitcoin user in the US paying for goods and services in bitcoin may have:
+-- Money-transmission regulation obligations
+--* Capital gain tax consequences
+-- Foreign currency gain tax consequences
+-- Bank Secrecy Act reporting obligations
+
+
+The US CFTC is taking steps toward potentially creating a framework for the regulation of bitcoin derivatives products.
+--* True
+-- False
+
+
+China has:
+-- Banned bitcoin
+-- Banned bitcoin mining
+--* Banned banks from dealing with bitcoin directly
+-- Banned users from holding bitcoin
+
+
+Which country has announced plans to create its own government-managed virtual currency?
+-- Bolivia
+-- Isle of Man
+-- Belgium
+--* Ecuador
+-- Argentina
