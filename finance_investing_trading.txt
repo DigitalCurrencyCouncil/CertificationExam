@@ -1,0 +1,80 @@
+Which of the following metrics are available in real-time due to the public nature of Bitcoin's blockchain ledger?
+-- (a) Number of transactions per day
+-- (b) Transaction volume
+-- (c) Number of active bitcoin users per day
+-- (d) Number of unqiue bitcoin addresses used per day
+-- a and b
+-- a, b, and c
+--* a, b, and d
+-- a, b, c, and d
+
+
+Some 'Bitcoin 2.0' platforms whose initial offerings may come under SEC review, are:
+-- (a) Monero
+-- (b) Counterparty
+-- (c) Mastercoin
+-- (d) Litecoin
+-- (e) Ethereum
+-- a and e
+-- a, d, and e
+--* b, c, and e
+
+
+It is possible for bitcoin's price to reach $0. 
+--* True
+-- False
+
+
+What are some valuation approaches analysts have used for bitcoin?
+-- (a) Modeling as a currency
+-- (b) Modeling as a commodity
+-- (c) Modeling as an equity
+-- (d) Modeling as a bond
+-- a and b
+--* a, b, and c
+-- a, b, and d
+-- a, b, c, and d
+
+
+Bitcoin's price has previously fallen by more than 90% within a 12 month period.
+--* True
+-- False
+
+
+Bitcoin's price has previously risen by more than 9000% within a 12 month period.
+--* True
+-- False
+
+
+There is agreement about how to model bitcoin from a fundamentals valuation standpoint.
+-- True
+--* False
+
+
+What valuation approach generally yields the highest valuations for bitcoin?
+-- Medium of exchange
+--* Store of value
+-- Equity model
+-- Black-Scholes
+
+
+What are some existential risks to Bitcoin?
+-- (a) Development of another digital currency with a larger coin supply
+-- (b) Discovery of a critical flaw in the cryptography algorithms used by Bitcoin
+-- (c) Certain types of theoretical technical attacks
+-- (d) Global, burdensome regulation
+-- a and b
+--* b and c
+-- a, b, and c
+-- a, b, c, and d
+
+
+What are some risks to the possibility of future price appreciation of bitcoin?
+-- (a) Development of another digital currency with a larger coin supply
+-- (b) Discovery of a critical flaw in the cryptography algorithms used by Bitcoin
+-- (c) Certain types of theoretical technical attacks
+-- (d) Global, burdensome regulation
+-- a and b
+-- b and c
+-- a, b, and c
+--* a, b, c, and d
