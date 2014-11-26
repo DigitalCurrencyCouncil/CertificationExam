@@ -104,3 +104,40 @@ Which mining-hardware technology generally uses the least energy per hash-comput
 Can transaction malleability change the address(es) to which the bitcoin contained in a given transaction goes?
 -- Yes
 --* No
+
+
+The Bitcoin protocol rewards miners' work through:
+-- (a) New coin issuance
+-- (b) A fixed percentage of every transaction
+-- (c) Voluntary transaction fees
+-- (d) There is no protocol-level means to reward miners
+-- a and b
+--* a and c
+-- b and c
+
+
+The projected supply of bitcoin:
+-- Is released in 25BTC batches every 10 minutes, until sometime in 2140
+-- Is released in 25BTC batches with no planned end-date
+-- Will level off eventually at some fixed rate of low inflation
+--* Asymptotically approaches a fixed maximum supply
+
+
+When your transaction is included in a valid block, that event is commonly called:
+-- A validation
+--* A confirmation
+-- A verification
+-- A proof-of-work
+
+
+Can Bitcoin theoretically fascillitate real-time public auditing?
+--* Yes
+-- No
+
+
+One 'bitcoin' is divisible to:
+-- 2 decimal places
+-- 4 decimal places
+--* 8 decimal places
+-- 10 decimal places
+-- A 'bitcoin' cannot be divided
