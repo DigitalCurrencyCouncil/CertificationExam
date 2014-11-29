@@ -141,3 +141,54 @@ One 'bitcoin' is divisible to:
 --* 8 decimal places
 -- 10 decimal places
 -- A 'bitcoin' cannot be divided
+
+
+How long does a blockchain block confirmation take?
+-- Exactly 10 minutes
+-- Exactly 1 hour
+--* Roughly 10 minutes
+-- Roughly 1 hour
+
+
+How many Bitcoins will ever be generated according to the current code?
+-- 21 million exactly
+-- 21 billion exactly
+-- 21 trillion exactly
+--* Slightly less than 21 million
+-- Slightly less than 21 billion
+-- Slightly less than 21 trillion
+
+
+What was the block reward in 2014?
+-- 50 bitcoins
+--* 25 bitcoins
+-- 21 bitcoins
+-- 12.5 bitcoins
+
+
+What can not be altered about Bitcoin?
+-- Block rewards
+-- Total number of bitcoins generated
+-- Mining difficulty
+-- Block halfing algorighm
+--* None of the above
+
+
+How quickly does Bitcoin "settle"?
+-- Instantly
+-- 10 min
+-- 1 hour
+-- 1 confirmation
+-- 6 confirmations
+-- Overnight
+--* Bitcoin doesn't ever settle, it just gets harder to void the transaction
+
+
+What is "decentralised" about Bitcoin?
+(a) The code
+(b) The ledger
+(c) The transaction auditing
+-- a and b
+-- b and c
+-- a and c
+--* a and b and c
