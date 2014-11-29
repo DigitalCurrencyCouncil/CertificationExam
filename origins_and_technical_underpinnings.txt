@@ -111,3 +111,31 @@ Who is Adam Back?
 --* The inventor of HashCash, an email anti-spam tool often credited as being the precursor to Bitcoin's hash-based proof-of-work algorithm
 -- The founder of DigiCash, which produced the eCash cryptographic money system
 -- The creator of BitGold, a precursor to Bitcoin with many similar properties
+
+
+What was not possible before Bitcoin?
+-- Digital cash
+-- Electronic money
+--* Ownership of provably unique digital assets
+-- Mining
+-- Public ledgers
+
+
+How often does the Bitcoin Hashing difficulty get reset?
+-- Every week
+-- Every 2 weeks
+-- Every 2014 blocks
+--* Every 2016 blocks
+-- Algorithmically, when sufficient new miners join
+
+
+How often does the Bitcoin block reward half?
+-- Every 2 years
+-- Every 4 years
+-- Every 40 years
+--* Every 210,000 blocks
+-- Algorithmically, when sufficient new miners join
+
+True or false: A bitcoin address is the same as a Bitcoin public key
+-- True
+--* False

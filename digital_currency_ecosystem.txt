@@ -124,3 +124,26 @@ Which organizations can be considered 'Bitcoin Lobbyist' groups?
 -- a and c
 -- b and c
 --* a, b, and c
+
+
+Pick the odd one out:
+-- Miners
+-- Exchanges
+-- Wallets
+-- Payment processors
+--* Smart contracts
+
+
+What is a bitcoin faucet?
+-- Liquidity supplier
+--* A free bitcoin provider
+-- Another word for bitcoin miner
+-- A service to convert bitcoins to other alt-coins
+
+
+What do Bitcoin exchanges do?
+-- Match buyers and sellers
+-- Convert between bitcoin and other crypto and fiat currencies
+-- Hold customer funds
+-- All of the above
+
