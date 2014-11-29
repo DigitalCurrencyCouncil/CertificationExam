@@ -69,3 +69,38 @@ What metric(s) might you check to directly monitor Bitcoin usage?
 -- Coinbase reward
 --* Number of transactions per day
 -- Average confirmation time
+
+
+What should you tell someone if you wanted them to send you bitcoins?
+-- Your private key
+-- Your wallet
+-- Your public key
+--* Your bitcoin address
+
+
+What should you never reveal to anyone?
+--* Your private key
+-- Your wallet
+-- Your public key
+-- Your bitcoin address
+
+
+If you know a Bitcoin address, what can you see publicly?
+(a) Transactions to that address
+(b) Transactions from that address
+(c) The public key associated with the address
+(d) The private key associated with the address
+(e) The number of bitcoins associalted with the address
+-- a and b
+--* a and b and e
+-- a and b and c and e
+-- c and d
+-- c and d and e
+
+
+What is stored in your bitcoin wallet?
+-- Bitcoins
+--* Private keys
+-- Public keys
+-- Transaction history
+
