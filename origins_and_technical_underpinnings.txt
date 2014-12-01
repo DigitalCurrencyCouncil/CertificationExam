@@ -121,21 +121,23 @@ What was not possible before Bitcoin?
 -- Public ledgers
 
 
-How often does the Bitcoin Hashing difficulty get reset?
+How often does the Bitcoin proof-of-work hashing difficulty adjust?
 -- Every week
 -- Every 2 weeks
 -- Every 2014 blocks
 --* Every 2016 blocks
--- Algorithmically, when sufficient new miners join
+-- Algorithmically, when sufficient new miners join the network
 
 
-How often does the Bitcoin block reward half?
+How often does the Bitcoin block-reward halve?
 -- Every 2 years
 -- Every 4 years
 -- Every 40 years
 --* Every 210,000 blocks
--- Algorithmically, when sufficient new miners join
+-- Algorithmically, when sufficient new miners join the network
 
-True or false: A bitcoin address is the same as a Bitcoin public key
+
+A bitcoin address is the same as a bitcoin public key.
 -- True
 --* False
+
