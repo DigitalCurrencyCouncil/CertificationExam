@@ -71,7 +71,7 @@ What metric(s) might you check to directly monitor Bitcoin usage?
 -- Average confirmation time
 
 
-What should you tell someone if you wanted them to send you bitcoins?
+What would typically give to someone if you wanted them to send you bitcoins?
 -- Your private key
 -- Your wallet
 -- Your public key
@@ -90,17 +90,17 @@ If you know a Bitcoin address, what can you see publicly?
 (b) Transactions from that address
 (c) The public key associated with the address
 (d) The private key associated with the address
-(e) The number of bitcoins associalted with the address
+(e) The number of bitcoins associated with the address
 -- a and b
---* a and b and e
--- a and b and c and e
 -- c and d
--- c and d and e
+--* a, b, and e
+-- c, d, and e
+-- a, b, c, and e
 
 
-What is stored in your bitcoin wallet?
+What, at minimum, must a bitcoin wallet store?
 -- Bitcoins
---* Private keys
--- Public keys
+--* A private key
+-- A public key
 -- Transaction history
 
