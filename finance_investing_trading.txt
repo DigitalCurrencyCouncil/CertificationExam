@@ -9,17 +9,6 @@ Which of the following metrics are available in real-time due to the public natu
 -- a, b, c, and d
 
 
-Some 'Bitcoin 2.0' platforms whose initial offerings may come under SEC review, are:
--- (a) Monero
--- (b) Counterparty
--- (c) Mastercoin
--- (d) Litecoin
--- (e) Ethereum
--- a and e
--- a, d, and e
---* b, c, and e
-
-
 It is possible for bitcoin's price to reach $0. 
 --* True
 -- False
