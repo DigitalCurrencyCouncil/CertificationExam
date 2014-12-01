@@ -109,19 +109,18 @@ Are bitcoin balances held in accounts with US companies protected by SIPC insura
 --* No
 
 
-What would be the primary reason for joining a mining pool?
+What is the primary reason for joining a mining pool?
 -- To get free bitcoins
---* To get more consistent return of bitcoins
+--* To get more consistent bitcoin returns
 -- To exchange bitcoins for fiat currencies
 -- To store bitcoins
 
 
 What controls the price of Bitcoin?
--- Capital controls
--- Bitcoin Foundation
--- Bitcoin source code / GitHub
+-- The Bitcoin Foundation
+-- The Bitcoin source code via GitHub
 --* Supply and demand
--- Central Bank of Bitcoin
+-- The Central Bank of Bitcoin
 -- Satoshi Nakamoto
 
 
@@ -135,9 +134,8 @@ Which currency is Bitcoin's price pegged to?
 
 
 Why is Bitcoin mining deliberately made difficult?
---* To make it expensive to subvert the blockchain
+--* To make it expensive to harm the integrity of the Bitcoin blockchain
 -- To control the supply of bitcoin
 -- To slow down confirmation times
--- To make sure the price doesn't go up too quickly
-
+-- To make sure the price of bitcoin doesn't go up too quickly
 
