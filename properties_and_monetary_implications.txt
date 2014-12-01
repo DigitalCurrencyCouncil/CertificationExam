@@ -143,14 +143,14 @@ One 'bitcoin' is divisible to:
 -- A 'bitcoin' cannot be divided
 
 
-How long does a blockchain block confirmation take?
+How long does a blockchain block confirmation take on the Bitcoin network?
 -- Exactly 10 minutes
 -- Exactly 1 hour
 --* Roughly 10 minutes
 -- Roughly 1 hour
 
 
-How many Bitcoins will ever be generated according to the current code?
+How many bitcoins will ever be generated according to the current code?
 -- 21 million exactly
 -- 21 billion exactly
 -- 21 trillion exactly
@@ -159,36 +159,29 @@ How many Bitcoins will ever be generated according to the current code?
 -- Slightly less than 21 trillion
 
 
-What was the block reward in 2014?
+What size was the block reward in 2014?
 -- 50 bitcoins
 --* 25 bitcoins
 -- 21 bitcoins
 -- 12.5 bitcoins
 
 
-What can not be altered about Bitcoin?
--- Block rewards
--- Total number of bitcoins generated
--- Mining difficulty
--- Block halfing algorighm
---* None of the above
-
-
 How quickly does Bitcoin "settle"?
 -- Instantly
--- 10 min
--- 1 hour
--- 1 confirmation
--- 6 confirmations
+-- Within 10 minutes
+-- Within 1 hour
+-- After 1 confirmation
+-- After 6 confirmations
 -- Overnight
---* Bitcoin doesn't ever settle, it just gets harder to void the transaction
+--* Bitcoin doesn't ever settle; it just gets exponentially harder to void a given transaction
 
 
-What is "decentralised" about Bitcoin?
-(a) The code
-(b) The ledger
-(c) The transaction auditing
+What is 'decentralized' about Bitcoin?
+(a) The software code which runs the network
+(b) The blockchain ledger
+(c) The process by which transactions are verified/audited
 -- a and b
 -- b and c
 -- a and c
---* a and b and c
+--* a, b, and c
+
