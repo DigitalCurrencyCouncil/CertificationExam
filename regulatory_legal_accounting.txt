@@ -1,6 +1,6 @@
 According to the March 2014 IRS Guidance on Virtual Currencies, if you receive bitcoin as payment for goods or services, you must:
 -- Declare any capital gain to the IRS when you sell it
---* Include the dollar-value of the bitcoin on the day you received it as gross-income
+--* Include the dollar value of the bitcoin on the day you received it as gross income
 -- Declare any mark-to-market gains as of April 15th
 -- Pay self-employment tax on the income, up to your standard deduction
 
@@ -15,13 +15,13 @@ FinCEN is primarily tasked with:
 The March 2014 IRS Guidance made clear that the IRS considers bitcoin:
 --* Property for the purposes of taxation
 -- Foreign currency for the purposes of taxation
--- Foregin currency for the purposes of taxation if received as an employee
+-- Foreign currency for the purposes of taxation if received as an employee
 -- Like-kind exchange
 
 
 What discussion is included in the March 2013 FinCEN Guidance on Virtual Currencies?
 -- (a) Application of MSB definitions to virtual currency companies
--- (b) Suggested tax treatment of bitcoin-wages
+-- (b) Suggested tax treatment of bitcoin wages
 -- (c) Application of MSB definitions to virtual currency miners
 -- (d) Distinctions between centralized and decentralized virtual currencies
 -- a and b
@@ -44,7 +44,7 @@ In FinCEN's March 2013 guidance, FinCEN described virtual currencies like bitcoi
 
 
 An ordinary bitcoin user in the US paying for goods and services in bitcoin may have:
--- Money-transmission regulation obligations
+-- Money transmission regulation obligations
 --* Capital gain tax consequences
 -- Foreign currency gain tax consequences
 -- Bank Secrecy Act reporting obligations

@@ -122,9 +122,13 @@ Which currency is Bitcoin's price pegged to?
 --* None of the above
 
 
-Why is Bitcoin mining deliberately made difficult?
---* To make it expensive to harm the integrity of the Bitcoin blockchain
--- To control the supply of bitcoin
--- To slow down confirmation times
--- To make sure the price of bitcoin doesn't go up too quickly
+Why does Bitcoin mining become more difficult as more miners join the network?
+-- (a) To make it more expensive for someone to perform a 51% attack
+-- (b) To control the rate of newly created bitcoins
+-- (c) To prevent empty blocks from being published by miners
+-- (d) To reduce exchange rate volatility
+--* a and b
+-- b and c
+-- a, b, and c
+-- a, b, c, and d
 
