@@ -36,7 +36,7 @@ A 'bit' is:
 
 Given that the target bitcoin block interval is 10-minutes, why can confirmations sometimes take an hour or more?
 -- (a) An insufficient transaction fee was paid
--- (b) Confirmation times are statistical; they can vary significantly
+-- (b) Confirmation times follow a Poisson distribution; they can vary significantly
 -- (c) The transaction was reversed
 --* a and b
 -- a and c
@@ -46,7 +46,7 @@ Given that the target bitcoin block interval is 10-minutes, why can confirmation
 
 How can you make sure that your transaction is likely to be included in the next block?
 -- Send the transaction twice
---* Include at least a standard transaction fee
+--* Include at least the standard transaction fee
 -- Send the transaction to multiple mining nodes
 -- Split the transaction into two smaller transactions
 
@@ -80,7 +80,7 @@ What would typically give to someone if you wanted them to send you bitcoins?
 
 What should you never reveal to anyone?
 --* Your private key
--- Your wallet
+--* Your wallet
 -- Your public key
 -- Your bitcoin address
 
