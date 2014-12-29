@@ -128,3 +128,15 @@ Why is Bitcoin mining deliberately made difficult?
 -- To slow down confirmation times
 -- To make sure the price of bitcoin doesn't go up too quickly
 
+An early 2013 study found that nearly 50% of bitcoin exchanges shut down and stole their user's funds.
+--* True
+-- False
+
+Which country's bitcoin exchanges account for a majority of trading volume?
+--* China
+-- Russia
+-- U.S.
+-- Switzerland 
+-- Japan
+
+

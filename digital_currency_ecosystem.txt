@@ -140,3 +140,16 @@ What is a bitcoin faucet?
 -- Another word for bitcoin miner
 -- A service to convert bitcoins to other alt-coins
 
+Which of these companies is/are accepting bitcoin as of late 2014? (May have multiple answers)
+--* Microsoft
+--* Dell
+-- HP
+-- Lenovo
+-- None of the above
+
+Which former chairman of the SEC is currently an advisor for bitcoin payment processor Bitpay?
+--* Arthur Levitt Jr.
+-- Christopher Cox
+-- Paul Carey
+-- Kathleen Casey
+-- Cynthia Glassman
