@@ -19,7 +19,7 @@ Which of these properties does Bitcoin have?
 -- none of the above
 
 
-Bitcoin is the first monetary system to credibly offer perfect information to all economic participants.
+Bitcoin is the first monetary system to credibly offer complete information to all economic participants.
 --* True
 -- False
 
@@ -41,15 +41,15 @@ Which is a historically accepted property of a 'good' money?
 --* All of the above
 
 
-A soft-fork is considered backward-compatible with older bitcoin software.
+A soft fork is considered backward-compatible with older bitcoin software.
 --* True
 -- False
 
 
-What causes a hard-fork?
---* New Bitcoin software which expands block-acceptance rules relative to earlier versions.
+What causes a hard fork?
+--* New Bitcoin software which expands block acceptance rules relative to earlier versions.
 -- When a single transaction contains multiple outputs
--- New Bitcoin software which restricts block-acceptance rules relative to earlier versions.
+-- New Bitcoin software which restricts block acceptance rules relative to earlier versions.
 -- When a single transaction contains multiple inputs
 
 
@@ -60,15 +60,15 @@ What is generally being referred to when discussing a miner's 'memory pool'?
 --* The list of unconfirmed transactions of which the miner is aware
 
 
-A hard-fork is considered backward-compatible with older bitcoin software.
+A hard fork is considered backward-compatible with older bitcoin software.
 -- True
 --* False
 
 
-What are some arguments against raising the max-blocksize limit?
--- (a) Raising the limit will make it easier for small-operators to run full-nodes
---* (b) Raising the limit will make it harder for small-operators to run full-nodes
--- (c) Raising the limit will make it harder for large-operators to run full-nodes
+What are some arguments against raising the block size limit?
+-- (a) Raising the limit will make it easier for small operators to run full nodes
+--* (b) Raising the limit will make it harder for small operators to run full nodes
+-- (c) Raising the limit will make it harder for large operators to run full nodes
 -- (d) Raising the limit may break SHA-256 hashing assumptions
 -- a and b
 -- b and c
@@ -76,9 +76,9 @@ What are some arguments against raising the max-blocksize limit?
 -- a, b, c, and d
 
 
-What are some arguments in favor of raising the max-blocksize limit?
--- (a) Raising the limit will allow Bitcoin to scale-up transaction volume
--- (b) Raising the limit will likely reduce transaction fees in the long-run
+What are some arguments in favor of raising the block size limit?
+-- (a) Raising the limit will allow Bitcoin to support higher transaction volume
+-- (b) Raising the limit will likely reduce transaction fees in the long run
 -- (c) Raising the limit will make transactions confirm faster
 -- (d) Raising the limit may break SHA-256 hashing assumptions
 --* a and b
@@ -94,7 +94,7 @@ Why were graphics cards suited to Bitcoin's mining algorithm?
 -- Graphics cards were not used for bitcoin mining
 
 
-Which mining-hardware technology generally uses the least energy per hash-computation?
+Which mining hardware generally uses the least energy per computed hash?
 -- GPUs
 -- FPGAs
 --* ASICs
@@ -118,7 +118,7 @@ The Bitcoin protocol rewards miners' work through:
 
 The projected supply of bitcoin:
 -- Is released in 25BTC batches every 10 minutes, until sometime in 2140
--- Is released in 25BTC batches with no planned end-date
+-- Is released in 25BTC batches with no planned end date
 -- Will level off eventually at some fixed rate of low inflation
 --* Asymptotically approaches a fixed maximum supply
 
@@ -130,7 +130,7 @@ When your transaction is included in a valid block, that event is commonly calle
 -- A proof-of-work
 
 
-Can Bitcoin theoretically fascillitate real-time public auditing?
+Can Bitcoin theoretically facilitate real-time public auditing?
 --* Yes
 -- No
 
@@ -143,7 +143,7 @@ One 'bitcoin' is divisible to:
 -- A 'bitcoin' cannot be divided
 
 
-How long does a blockchain block confirmation take on the Bitcoin network?
+How long does a block confirmation take on the Bitcoin network?
 -- Exactly 10 minutes
 -- Exactly 1 hour
 --* Roughly 10 minutes
