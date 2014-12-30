@@ -122,7 +122,7 @@ How often does the Bitcoin proof-of-work hashing difficulty adjust?
 
 How often does the Bitcoin block reward halve?
 -- Every 2 years
--- Every 4 years
+--* Every 4 years
 -- Every 40 years
 --* Every 210,000 blocks
 -- When the Bitcoin Core developers agree the bitcoin supply is too inflationary

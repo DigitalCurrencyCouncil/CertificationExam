@@ -59,7 +59,7 @@ What are some existential risks to Bitcoin?
 
 
 What are some risks to the possibility of future price appreciation of bitcoin?
--- (a) Development of another digital currency with a larger coin supply
+-- (a) Development of another digital currency with superior characteristics
 -- (b) Discovery of a critical flaw in the cryptography algorithms used by Bitcoin
 -- (c) Certain types of theoretical technical attacks
 -- (d) Global, burdensome regulation

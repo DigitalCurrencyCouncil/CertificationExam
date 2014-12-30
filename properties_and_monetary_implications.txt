@@ -57,7 +57,7 @@ What is generally being referred to when discussing a miner's 'memory pool'?
 -- The list of that node's peer nodes
 -- The list of a miner's spent nonces for the current block
 -- The list of recently confirmed transactions by that miner
---* The list of unconfirmed transactions of which the miner is aware
+--* The list of unconfirmed, valid transactions of which the miner is aware
 
 
 A hard fork is considered backward-compatible with older bitcoin software.
