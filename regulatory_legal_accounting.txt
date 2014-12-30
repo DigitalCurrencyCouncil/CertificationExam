@@ -131,5 +131,5 @@ Which of these companies did not submit comments on the proposed BitLicense?
 -- Western Union
 -- Amazon
 -- Walmart
--- Bank of America
+--* Bank of America
 
