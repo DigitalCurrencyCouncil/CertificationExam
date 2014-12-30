@@ -132,3 +132,15 @@ Why does Bitcoin mining become more difficult as more miners join the network?
 -- a, b, and c
 -- a, b, c, and d
 
+An early 2013 study found that nearly 50% of bitcoin exchanges shut down and stole their user's funds.
+--* True
+-- False
+
+Which country's bitcoin exchanges account for a majority of trading volume?
+--* China
+-- Russia
+-- U.S.
+-- Switzerland 
+-- Japan
+
+

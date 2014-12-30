@@ -104,3 +104,4 @@ What, at a minimum, must a bitcoin wallet store?
 -- A public key
 -- Transaction history
 
+
