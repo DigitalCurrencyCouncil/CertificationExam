@@ -110,12 +110,14 @@ Is it legal to donate bitcoin to political committees in the United States?
 -- No
 -- No ruling has been issued by the Federal Election Commission, but it is assumed to be legal
 
+
 Which state's Department of Financial Services will create a framework to regulate virtual currency businesses called the BitLicense?
 --* New York
 -- California
 -- Texas
 -- New Jersey
 -- New Mexico
+
 
 Which state's Department of Banking declared in 2014 that exchange of cryptocurrencies for sovereign currencies did not constitute money transmission?
 --* Texas
@@ -124,10 +126,10 @@ Which state's Department of Banking declared in 2014 that exchange of cryptocurr
 -- New Jersey
 -- Nevada
 
+
 Which of these companies did not submit comments on the proposed BitLicense?
 -- Western Union
 -- Amazon
 -- Walmart
 -- Bank of America
-
 
